@@ -3,7 +3,7 @@ require 'formula'
 class VruiExamplesBlueMarbleTex < Formula
   homepage 'http://keckcaves.org/data/'
   url 'http://keckcaves.org/data/BlueMarble.png'
-  sha1 '07e19462d4ccd6e6e9122ffa3d2417ce77c59317'
+  sha256 '8671b70501378a680f9e0ba3e920af63825fea961ead89e205c88aec8ed91411'
   version '1'
 end
 
